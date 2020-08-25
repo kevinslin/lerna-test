@@ -3,5 +3,8 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.19.0"
+  },
+  "dependencies": {
+    "@dendronhq/conventional-changelog-dendron": "^5.0.11"
   }
 }

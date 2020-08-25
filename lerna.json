@@ -7,6 +7,7 @@
   "command": {
     "version": {
       "conventionalCommits": true,
+      "changelogPreset": "@dendronhq/conventional-changelog-dendron",
       "message": "chore(release): publish",
       "yes": true
     }

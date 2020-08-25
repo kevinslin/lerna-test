@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/kevinslin/lerna-test/compare/v0.3.0...v0.4.0) (2020-08-25)
+
+
+### Features V3
+
+* test ([d2f0119](https://github.com/kevinslin/lerna-test/commit/d2f01193fd8a98914504a4c6789d2208c4925709))
+* test ([ddaed57](https://github.com/kevinslin/lerna-test/commit/ddaed57152a96c416274cff6b5feb72ace57dd41))
+
+
+
+
+
 # [0.3.0](https://github.com/kevinslin/lerna-test/compare/v0.2.0...v0.3.0) (2020-08-25)
 
 
